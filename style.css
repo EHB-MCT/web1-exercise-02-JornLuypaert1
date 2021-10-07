@@ -18,12 +18,17 @@ p{
     color: #939598;
 }
 
-a:hover{
+a{
     background-color: #f65b5c;
     padding: 15px;
     color: #FFF;
     text-decoration: none;
     font-weight: bold;
+    
+}
+
+a:hover{
     background-color: #333;
     
 }
+
